@@ -2,7 +2,7 @@
 #
 # Standard GPLv3 License
 # This script is designed to account for the current applications listed and
-# then append the applications in the Applications\Make\Model folder\group
+# then append the applications in the Applications\%Make%\%Model% folder\group
 # setup in the MDT Workbench.
 # You are responsible to verify the %Make% and %Model% and setup the 
 # folder\group strucuture accordingly.
